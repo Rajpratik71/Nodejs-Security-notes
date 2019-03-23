@@ -1,7 +1,3 @@
-Just some notes, stored on GitHub instead of a blog.
-
-I am not a native English speaker, so please excuse any language mistakes.
-
 Contents
 --
  * [Enumerating Bitbucket repos and private issue titles](https://github.com/ChALkeR/notes/blob/master/Enumerating-Bitbucket-repos-and-private-issue-titles.md) (2018-05-10)
